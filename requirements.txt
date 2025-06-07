@@ -1,0 +1,5 @@
+PyQt5~=5.15.9
+ollama~=0.5.1
+requests~=2.32.3
+bs4~=0.0.2
+beautifulsoup4~=4.13.4
