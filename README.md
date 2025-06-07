@@ -1,5 +1,7 @@
 ## 这是一个基于SCAMPER创新方法的为我们提供创新思维的工具。
 
+![微信截图_20250607130306](https://github.com/user-attachments/assets/b23f459d-8f0c-4860-b383-15a93455641f)
+
 ### 以下全是无用之物
 
 conbin_ele 合并元素 即合并element_llm与element_url为element_all 。  
